@@ -1,1 +1,2 @@
 1. Belajar SELECT
+2. Belajar CRUD di DML
