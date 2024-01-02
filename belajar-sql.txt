@@ -2,3 +2,4 @@
 2. Belajar CRUD di DDL
 3. Belajar CRUD di DML
 4. Belajar ERD
+5. Belajar Case
